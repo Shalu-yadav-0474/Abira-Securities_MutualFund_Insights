@@ -1,1 +1,74 @@
 # Abira-Securities-Mutual-Fund-Insights
+## Company Background
+# ![investwithabira_cover](https://github.com/user-attachments/assets/6ed9aae3-64d7-45d0-99ef-8f3057364b83)
+
+### Established in 2012,ABIRA Securities Ltd. is a Kolkata based stock broking house, belongs to GTFS. GTFS, one of the largest & strongest players in distribution of financial products like Mutual Fund, Microfinance, Insurance Awareness & auxiliary services (both life & general), having 303 branches across India and over a million of individual marketing associates. We provide platform of NSE & BSE for trading and CSDL for Depository services.
+
+## Project Goals
+#### Abira Securities have applied for mutual fund (MF) licence from market regulator Securities and Exchange Board of India (Sebi), as securities firm is waiting from the nod from SEBI  meanwhile it is collecting data about products available in mutual fund industries having some of key elements like AMC name,  Scheme Name, Fund manager , Return’s of funds in 1 year, 3 years and 5 years.
+#### However, the data is currently unrefined and underutilized, presenting both challenges and opportunities for unlocking valuable insights.
+In cleaning and analysing Adidas's data, meaningful insights can be extracted from the dataset to support the company’s teams—like sales, product, and marketing.
+#### By providing actionable data insights, our aim is to improve distribution efficiencies and drive better decision-making for advisors to sell ideal mutual fund to customers, ultimately helping Abira securities to optimize its processes of distribution, deliver products and fill the gaps in industry where the fellow competitors are lagging.
+
+## Stakeholder Questions
+1.	Can we get a detailed analysis of mutual funds by category? What are the key trends and insights for each category?
+2.	What does the AMC landscape look like in terms of risk levels, scheme ratings, and returns? Which AMCs are performing best across these metrics?
+3.	Is there a direct correlation between high-risk mutual funds and high returns? How should we interpret this relationship?
+4.	How are the top fund managers performing? Can we identify any standout performers and their impact on returns?
+5.	What does the return analysis reveal for each mutual fund category? Which categories are delivering the best results over different time periods?
+
+## Executive Summary
+#### The mutual fund analysis reveals critical insights for the business development team. Equity funds dominate with 37% of all schemes, offering the highest returns over 3 and 5 years (29.74% and 12.07%, respectively), while solution-oriented funds represent the lowest share at 3%. ICICI Prudential leads among 39 AMCs in fund size and scheme count, with Quant achieving the highest average rating of 4.5. Top-performing fund managers like Vishal Mishra and Rahul Goswami drive significant returns and manage large fund sizes. Hybrid and Debt categories average a 3-star rating, with Debt funds excelling in 1-year returns (5.55%). Risk analysis highlights over half of the schemes as high-risk, with Equity funds showing the best Sharpe and Sortino ratios, reflecting superior risk-adjusted returns. These findings underscore opportunities to focus on high-performing categories and AMCs while managing portfolio risks effectively.
+
+## Insights Deep-Dive
+### Category Analysis
+#### 
+•	Equity Dominance: Equity accounts for 37% (308 schemes) of all mutual fund schemes, making it the largest category with the highest returns. Sectoral/Thematic funds dominate within Equity.
+•	Solution-Oriented Funds: Comprising only 3% (28 schemes), these funds have the lowest average ratings and focus exclusively on retirement products, signalling a niche but underperforming segment.
+•	Category Trends:
+1.	Hybrid funds have the highest count (116) of 3-star ratings, with Aggressive Hybrid funds leading this category.
+2.	Debt funds are predominantly liquid mutual funds.
+3.	"Other" category funds are primarily Fund of Funds (FOFs) – Domestic
+
+### AMC Analysis
+#### 
+•	There is total 39 Amcs’  having 814 schemes
+•	Top Performers: Quant mutual fund has highest average rating of 4.5 and Whiteoak mutual fund has lowest mutual fund rating of 1.55
+•	Market Leaders: ICICI Prudential mutual fund, Aditya Birla Sun Life Mutual Fund, SBI Mutual Fund are top Amc’s having highest numbers of schemes
+•	ICICI Prudential mutual fund has highest fund size across amcs’ and highest number of schemes.
+
+### Fund Manager analysis
+####
+•	Top Fund Managers:
+o	Vishal Mishra, Niket Shah, and Sanjeev Sharma lead in 5-year returns.
+o	Rahul Goswami (ICICI Prudential Mutual Fund) manages the largest fund size of ₹16,998 crore with a 5-star rating.
+•	Fund managers with the highest returns by category include:
+	Equity: Vaibhav Dusad.
+	Hybrid: Vasav Sahgal.
+	Solution-Oriented: Srinivasan Ramamurthy.
+	Other Funds: Devender Singhal.
+
+### Returns Analysis
+#### 
+•	Debt has highest average return in 1 year compare to others category which is 5.55%
+•	Equity has highest average return in 3 years compare to others category which is 29.74%
+•	Equity has highest average return in 5 years compare to others category which is 12.07%
+
+### Risk Analysis
+#### 
+•	More than half of the total scheme i.e., 418 are measured as high risk as risk level is 6
+•	Performance Metrics:
+Beta:-
+•	Thera are 16 mutual funds having beta 1 out of 10 are index category funds
+•	Jaiprakash Toshniwal, Kayzad Eghlim are fund mangers manged funds having beta 1
+Sharpe:-
+•	Equity fund has highest Sharpe Ratio
+•	Very High and Moderately High has somewhat same average Sharpe
+•	As rating increases Sharpe ratio also increases
+Sortino:-
+•	Equity has highest Sortino
+•	Very High-Risk category has high sortino
+
+## RECOMMENDATIONS
+
+
