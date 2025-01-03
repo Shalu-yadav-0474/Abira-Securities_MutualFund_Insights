@@ -23,41 +23,41 @@ In cleaning and analysing Adidas's data, meaningful insights can be extracted fr
 ## Insights Deep-Dive
 ### Category Analysis
 #### 
-•	Equity Dominance: Equity accounts for 37% (308 schemes) of all mutual fund schemes, making it the largest category with the highest returns. Sectoral/Thematic funds dominate within Equity.
-•	Solution-Oriented Funds: Comprising only 3% (28 schemes), these funds have the lowest average ratings and focus exclusively on retirement products, signalling a niche but underperforming segment.
-•	Category Trends:
+- Equity Dominance: Equity accounts for 37% (308 schemes) of all mutual fund schemes, making it the largest category with the highest returns. Sectoral/Thematic funds dominate within Equity.
+- Solution-Oriented Funds: Comprising only 3% (28 schemes), these funds have the lowest average ratings and focus exclusively on retirement products, signalling a niche but underperforming segment.
+- Category Trends:
 1.	Hybrid funds have the highest count (116) of 3-star ratings, with Aggressive Hybrid funds leading this category.
 2.	Debt funds are predominantly liquid mutual funds.
-3.	"Other" category funds are primarily Fund of Funds (FOFs) – Domestic
+3.	"Other" category funds are primarily funds of funds (FOFs) – domestic.
 
 ### AMC Analysis
 #### 
-•	There is total 39 Amcs’  having 814 schemes
-•	Top Performers: Quant mutual fund has highest average rating of 4.5 and Whiteoak mutual fund has lowest mutual fund rating of 1.55
-•	Market Leaders: ICICI Prudential mutual fund, Aditya Birla Sun Life Mutual Fund, SBI Mutual Fund are top Amc’s having highest numbers of schemes
-•	ICICI Prudential mutual fund has highest fund size across amcs’ and highest number of schemes.
+-	There is total 39 Amcs’  having 814 schemes
+-	Top Performers: Quant mutual fund has highest average rating of 4.5 and Whiteoak mutual fund has lowest mutual fund rating of 1.55
+-	Market Leaders: ICICI Prudential mutual fund, Aditya Birla Sun Life Mutual Fund, SBI Mutual Fund are top Amc’s having highest numbers of schemes
+-	ICICI Prudential mutual fund has highest fund size across amcs’ and highest number of schemes.
 
 ### Fund Manager analysis
 ####
-•	Top Fund Managers:
-o	Vishal Mishra, Niket Shah, and Sanjeev Sharma lead in 5-year returns.
-o	Rahul Goswami (ICICI Prudential Mutual Fund) manages the largest fund size of ₹16,998 crore with a 5-star rating.
-•	Fund managers with the highest returns by category include:
-	Equity: Vaibhav Dusad.
-	Hybrid: Vasav Sahgal.
-	Solution-Oriented: Srinivasan Ramamurthy.
-	Other Funds: Devender Singhal.
+-	Top Fund Managers:
+-	Vishal Mishra, Niket Shah, and Sanjeev Sharma lead in 5-year returns.
+-	Rahul Goswami (ICICI Prudential Mutual Fund) manages the largest fund size of ₹16,998 crore with a 5-star rating.
+-	Fund managers with the highest returns by category include:
+-	Equity: Vaibhav Dusad.
+-	Hybrid: Vasav Sahgal.
+-	Solution-Oriented: Srinivasan Ramamurthy.
+-	Other Funds: Devender Singhal.
 
 ### Returns Analysis
 #### 
-•	Debt has highest average return in 1 year compare to others category which is 5.55%
-•	Equity has highest average return in 3 years compare to others category which is 29.74%
-•	Equity has highest average return in 5 years compare to others category which is 12.07%
+-	Debt has highest average return in 1 year compare to others category which is 5.55%
+-	Equity has highest average return in 3 years compare to others category which is 29.74%
+-	Equity has highest average return in 5 years compare to others category which is 12.07%
 
 ### Risk Analysis
 #### 
-•	More than half of the total scheme i.e., 418 are measured as high risk as risk level is 6
-•	Performance Metrics:
+-	More than half of the total scheme i.e., 418 are measured as high risk as risk level is 6
+-	Performance Metrics:
 Beta:-
 •	Thera are 16 mutual funds having beta 1 out of 10 are index category funds
 •	Jaiprakash Toshniwal, Kayzad Eghlim are fund mangers manged funds having beta 1
@@ -72,29 +72,29 @@ Sortino:-
 ## RECOMMENDATIONS
 ### 1. Category Analysis
 #### 
-•	Focus marketing efforts on the Equity category, which accounts for 37% of all schemes and provides the highest returns across periods. Highlight Sectoral and Thematic funds to attract growth-oriented investors.
-•	Promote Hybrid funds, particularly Aggressive Hybrid Mutual Funds, as a balanced investment option with stable average ratings.
-•	Develop educational campaigns around Liquid Mutual Funds in the Debt category to target conservative investors seeking short-term liquidity.
-•	Revitalize the Solution-Oriented category by introducing innovative products beyond Retirement Funds to appeal to a broader investor base.
+-	Focus marketing efforts on the Equity category, which accounts for 37% of all schemes and provides the highest returns across periods. Highlight Sectoral and Thematic funds to attract growth-oriented investors.
+-	Promote Hybrid funds, particularly Aggressive Hybrid Mutual Funds, as a balanced investment option with stable average ratings.
+-	Develop educational campaigns around Liquid Mutual Funds in the Debt category to target conservative investors seeking short-term liquidity.
+-	Revitalize the Solution-Oriented category by introducing innovative products beyond Retirement Funds to appeal to a broader investor base.
  ### 2. AMC Analysis
  ####
-•	Strengthen partnerships with top-performing AMCs like ICICI Prudential, Aditya Birla Sun Life, and SBI Mutual Fund to offer a diverse range of high-quality schemes.
-•	Collaborate with Quant Mutual Fund, leveraging its 4.5 average rating, to position its schemes as premium offerings.
-•	Address gaps in low-performing AMCs like Whiteoak Mutual Fund by identifying areas for improvement and collaborating on performance enhancement strategies.
+-	Strengthen partnerships with top-performing AMCs like ICICI Prudential, Aditya Birla Sun Life, and SBI Mutual Fund to offer a diverse range of high-quality schemes.
+-	Collaborate with Quant Mutual Fund, leveraging its 4.5 average rating, to position its schemes as premium offerings.
+-	Address gaps in low-performing AMCs like Whiteoak Mutual Fund by identifying areas for improvement and collaborating on performance enhancement strategies.
 ### 3. Fund Manager Analysis
 #### 
-•	Highlight the track records of top fund managers like Vishal Mishra, Niket Shah, and Rahul Goswami in client acquisition strategies to build trust.
-•	Showcase category-specific expertise, such as Vaibhav Dusad in Equity and Vasav Sahgal in Hybrid, to match investor preferences with skilled managers.
-•	Promote funds managed by top performers in niche categories like Solution Funds (Srinivasan Ramamurthy) and Other Funds (Devender Singhal) to attract specialized investors.
+-	Highlight the track records of top fund managers like Vishal Mishra, Niket Shah, and Rahul Goswami in client acquisition strategies to build trust.
+-	Showcase category-specific expertise, such as Vaibhav Dusad in Equity and Vasav Sahgal in Hybrid, to match investor preferences with skilled managers.
+-	Promote funds managed by top performers in niche categories like Solution Funds (Srinivasan Ramamurthy) and Other Funds (Devender Singhal) to attract specialized investors.
 ### 4. Returns Analysis
 ####
-•	Emphasize Equity funds for their exceptional 3-year (29.74%) and 5-year (12.07%) returns in marketing and client consultations, particularly for long-term growth-oriented investors.
-•	Position Debt funds as safe and consistent performers for short-term goals, leveraging their 1-year average return of 5.55%.
-•	Recommend a diversified portfolio strategy combining high-return Equity and stable Debt funds to balance risk and return for clients.
+-	Emphasize Equity funds' exceptional 3-year (29.74%) and 5-year (12.07%) returns in marketing and client consultations, particularly for long-term growth-oriented investors.
+-	Position Debt funds as safe and consistent performers for short-term goals, leveraging their 1-year average return of 5.55%.
+-	Recommend a diversified portfolio strategy combining high-return Equity and stable Debt funds to balance risk and return for clients.
 ### 5. Risk Analysis
 #### 
-•	Educate clients on managing risks, particularly in high-risk schemes (418 schemes rated as risk level 6), and recommend risk-adjusted strategies using Equity funds with high Sharpe and Sortino ratios.
-•	Leverage index funds with beta values near 1 as stable option for clients seeking market-aligned performance.
-•	Create awareness about the correlation between fund ratings and Sharpe ratios to help clients make informed decisions based on risk-adjusted returns.
+- Educate clients on managing risks, particularly in high-risk schemes (418 schemes rated as risk level 6), and recommend risk-adjusted strategies using Equity funds with high Sharpe and Sortino ratios.
+-	Leverage index funds with beta values near 1 as a stable option for clients seeking market-aligned performance.
+-	Create awareness about the correlation between fund ratings and Sharpe ratios to help clients make informed decisions based on risk-adjusted returns.
 
 
