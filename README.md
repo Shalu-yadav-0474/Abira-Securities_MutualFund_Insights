@@ -15,6 +15,17 @@ In cleaning and analyzing Adidas's data, meaningful insights can be extracted fr
 4.	How are the top fund managers performing? Can we identify any standout performers and their impact on returns?
 5.	What does the return analysis reveal for each mutual fund category? Which categories are delivering the best results over different periods?
 
+* Table of Content
+  * Executive Summary
+  * Insights Deep-Dive
+     * Category Analysis
+     * AMC Analysis
+     * Fund Manager analysis
+     * Returns Analysis
+     * Risk Analysis
+  * Recommendations
+  * Appendix
+    
 ## Executive Summary
 #### The mutual fund analysis reveals critical insights for the business development team. Equity funds dominate with 37% of all schemes, offering the highest returns over 3 and 5 years (29.74% and 12.07%, respectively), while solution-oriented funds represent the lowest share at 3%. ICICI Prudential leads among 39 AMCs in fund size and scheme count, with Quant achieving the highest average rating of 4.5. Top-performing fund managers like Vishal Mishra and Rahul Goswami drive significant returns and manage large fund sizes. Hybrid and Debt categories average a 3-star rating, with Debt funds excelling in 1-year returns (5.55%). Risk analysis highlights over half of the schemes as high-risk, with Equity funds showing the best Sharpe and Sortino ratios, reflecting superior risk-adjusted returns. These findings underscore opportunities to focus on high-performing categories and AMCs while managing portfolio risks effectively.
 
