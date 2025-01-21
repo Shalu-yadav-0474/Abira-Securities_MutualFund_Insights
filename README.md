@@ -96,7 +96,7 @@ Sortino:-
 -	Create awareness about the correlation between fund ratings and Sharpe ratios to help clients make informed decisions based on risk-adjusted returns.
 
 ## Appendix
-* See the raw data and my cleaning, analysis, and pivot tables in the Excel workbook.
-* See my SQL queries in the SQL file.
-* See the notebook for data cleaning, visualization, and analysis in the Python Notebook.
+* See the raw data and my cleaning, analysis, and pivot tables in the [Excel workbook.](https://github.com/Shalu-yadav-0474/Abira-Securities_MutualFund_Insights/tree/master/Dataset "Excel workbook.")
+* See the notebook for data cleaning and analysis in the [Python Notebook.](https://github.com/Shalu-yadav-0474/Abira-Securities_MutualFund_Insights/blob/master/mutual%20fund_analysis.ipynb "Python Notebook.")
+*  See more trends using the [Power BI Dashboard](https://github.com/Shalu-yadav-0474/Abira-Securities_MutualFund_Insights/tree/master/Data%20visualization "Power BI Dashboard")
 * For more of my projects and data journey, [visit my portfolio website and reach out!](https://github.com/Shalu-yadav-0474 "visit my portfolio website and reach out!")
