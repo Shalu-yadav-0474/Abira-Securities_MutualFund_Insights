@@ -6,7 +6,7 @@
 
 ## Project Goals
 #### Abira Securities has applied for a mutual fund (MF) license from the market regulator Securities and Exchange Board of India (SEBI), as securities firm is waiting for the nod from SEBI  meanwhile it is collecting data about products available in mutual fund industries having some of the key elements like AMC name,  Scheme Name, Fund manager, Return’s of funds in 1 year, 3 years and 5 years. However, the data is currently unrefined and underutilized, presenting both challenges and opportunities for unlocking valuable insights.
-In cleaning and analyzing Adidas's data, meaningful insights can be extracted from the dataset to support the company’s teams—like sales, product, and marketing. By providing actionable data insights, our aim is to improve distribution efficiencies and drive better decision-making for advisors to sell ideal mutual fund to customers, ultimately helping Abira securities to optimize its processes of distribution, deliver products, and fill the gaps in industry where the fellow competitors are lagging.
+In cleaning and analyzing data, meaningful insights can be extracted from the dataset to support the company’s teams—like sales, product, and marketing. By providing actionable data insights, our aim is to improve distribution efficiencies and drive better decision-making for advisors to sell ideal mutual fund to customers, ultimately helping Abira securities to optimize its processes of distribution, deliver products, and fill the gaps in industry where the fellow competitors are lagging.
 
 ## Stakeholder Questions
 1.	Can we get a detailed analysis of mutual funds by category? What are the key trends and insights for each category?
